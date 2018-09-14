@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+         />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar2"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+          />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar3"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:visibility="visible" />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar4"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+         android:visibility="visible" />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar5"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+         android:visibility="visible" />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar6"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+         android:visibility="visible" />
+    <com.jcodecraeer.xrecyclerview.SimpleViewSwitcher
+        android:id="@+id/listview_header_progressbar7"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+         android:visibility="visible" />
+</LinearLayout>
